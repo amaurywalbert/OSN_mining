@@ -1,6 +1,3 @@
-# Chap02-03/twitter_client.py
-import os
-import sys
 from tweepy import API
 from tweepy import OAuthHandler
 
